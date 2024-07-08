@@ -1,0 +1,23 @@
+ *{
+    box-sizing: border-box;
+    margin: 0;
+     text-align: center;
+  }
+
+.container{
+    width: 600px;
+    height: 80vh;
+    margin: 10vh auto;
+    padding: 25px;
+    border: 2px solid #00FFCB;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: rgb(83, 178, 160) 0 5px 15px;
+  }
+
+
+
+
